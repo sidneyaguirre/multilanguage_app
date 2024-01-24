@@ -1,3 +1,3 @@
 # responsive_app
 
-A new Flutter project.
+App supporting multilanguage, theme changes and responsiveness
